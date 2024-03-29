@@ -1,0 +1,281 @@
+.landing{
+    height: 900px;
+    width: 1810px;
+    position: relative;
+}
+.nav{
+    position: absolute;
+    top: 20px;
+    width: 1830px;
+    background-color: white;
+    margin: 100px;
+    border-radius: 50px;
+    width: 1600px;
+    font-size: x-large;
+    
+
+
+}
+.nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+
+}
+#home{
+  background-color: chocolate;
+  color: white;
+  padding: 15px;
+  border-radius: 50px;
+  width: 90px;
+}
+.nav em{
+  color: chocolate;
+  font-size: xx-large;
+}
+.top p{
+  color: white;
+  top: 300px;
+  position: absolute;
+  padding-left: 470px;
+  /* text-align: center; */
+  font-size: 70px;
+}
+.top h4{
+  position: absolute;
+  top: 500px;
+  padding-left: 500px;
+  /* text-align: center; */
+  color: white;
+  padding-top: 30px;
+
+}
+#button{
+  position: absolute;
+  top:600px ;
+  /* text-align: center; */
+  padding-left: 700px;
+  /* background-color: chocolate; */
+  /* color: white; */
+  
+  
+}
+.second h1{
+  text-align: center;
+}
+.second p{
+  text-align: center;
+}
+#image{
+  height: 150px;
+  width: 200px;
+}
+.content{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+#white{
+  border: solid 1px;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
+#chocolate{
+  border: solid 1px;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  background-color: chocolate;
+}
+.round{
+  display: flex;
+  justify-content: space-around;
+  padding: 150px;
+
+} 
+#unique h1{
+  text-align: center;
+}
+#semi-circle{
+  border-bottom: dotted 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+#circle{
+  border-top: dotted 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+.images{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+#destination{
+  text-align: center;
+}.italy{
+width: 400px;
+height: 200px;
+}
+.rome{
+width: 400px;
+height: 200px;
+}
+.photogallery{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  position: relative;
+
+  
+
+}
+#center{
+  padding-left: 90px;
+  padding-right: 20px;
+}
+#florence{
+  top: 190px;
+  position: absolute;
+  color: white;
+  font-size: large;
+}
+#florence em{
+  font-size: x-large;
+  font-weight: bold;
+}
+#venice{
+  top: 400px;
+  position: absolute;
+  color: white;
+  font-size: large;
+}
+#venice em{
+  font-size: x-large;
+  font-weight: bold;
+}
+#porto{
+  top: 400px;
+  position: absolute;
+  color: white;
+  font-size: large;
+  left: 700px; 
+}
+#porto em{
+  font-size: x-large;
+  font-weight: bold;
+}
+#milan{
+  top: 190px;
+  position: absolute;
+  color: white;
+  font-size: large;
+}
+#milan em{
+  font-size: x-large;
+  font-weight: bold;
+}
+#rome{
+  top: 400px;
+  position: absolute;
+  color: white;
+  font-size: large;
+}
+#rome em{
+  font-size: x-large;
+  font-weight: bold;
+}
+.ratings{
+display: flex;
+justify-content: space-around;
+}
+#display{
+display: flex;
+}
+#clients{
+  text-align: center;
+  padding: 100px;
+}
+#blog{
+  text-align: center;
+  padding-top: 50px; 
+}
+#pagecnt{
+  text-align: center; 
+}
+.ourblog{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+#blogimage{
+  width: 550px;
+  height: 450px;
+  position: relative;
+}
+.exploring {
+  position: absolute;
+  top: 3650px;
+  color: white;
+  font-size: large;
+}
+.questions{
+  background-color: chocolate;
+  width: 900px;
+  height: 350px;
+  border-radius: 50px;
+  position: relative;
+
+}
+#quest{
+  position: absolute;
+  top: 30px;
+  color: white;
+  padding-left: 200px;
+  font-size: xx-large;
+}
+#fact{
+  position: absolute;
+  top: 130px;
+  color: white;
+  padding-left: 150px;
+  font-size: xx-large;
+}
+.fillform{
+ display: flex; 
+ /* justify-content: space-around; */
+ /* border: solid 1px; */
+}
+.form{
+  border: solid 1px;
+  padding: 50px;
+}
+#join{
+  text-align: center;
+}
+#Adventure{
+  padding-top: 70px;
+  position: relative;
+}
+#choose{
+  position: absolute;
+  top: 4500px;
+  padding-left: 600px;
+}
+.button2{
+  position: absolute;
+  top: 4700px;
+  padding-left: 700px;
+}
+#input{
+  margin-left: 800px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+
+
+
